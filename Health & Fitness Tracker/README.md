@@ -15,6 +15,6 @@ An automated tool built with **Python, Pandas, and NumPy** to help gym owners an
 - Matplotlib (Visualizations)
 
 ## 🚀 How to Run
-1. Clone the repo: `git clone <your-repo-link>`
+1. Clone the repo: `git clone https://github.com/souravsid66-code/Gym-Health-Tracker
 2. Install dependencies: `pip install pandas numpy matplotlib`
 3. Run the script: `python fitness_tracker.py`
